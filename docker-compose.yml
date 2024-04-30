@@ -30,7 +30,7 @@ volumes:
 CLOUDINARY_CLOUD_NAME= dn6kdxafh
 CLOUDINARY_KEY=954585835865629
 CLOUDINARY_SECRET=ESAsBZbs7g_5XiTkO5C6Ncji3ik
-MPBOX_TOKEN=pk.eyJ1IjoiaHlhcmVsZ2l0cyIsImEiOiJjbHZtMzc4em8yNmtmMnFwZTczeDI5YndwIn0.zweYZngoGM39KbWZhrF4pw
+MPBOX_TOKEN=sk.eyJ1IjoiaHlhcmVsZ2l0czEiLCJhIjoiY2x2bTY5MG9mMmhsbjJrbnZyM2MwYnF4NyJ9.EVH9EBXIocbiWIytnaIqgA
 DB_URL=”mongodb+srv://hyarelgits:SCs32WRgn4PVGKDK@cluster0.5fcsrl8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0”
 NAME=hyarelgits
 SECRETS=hyarelshack
